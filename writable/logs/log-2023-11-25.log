@@ -1,0 +1,26 @@
+CRITICAL - 2023-11-25 13:12:48 --> require(./component/parts/navbar.php): failed to open stream: No such file or directory
+in APPPATH\Views\pages\home.php on line 14.
+ 1 APPPATH\Views\pages\home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(./component/parts/navbar.php): failed to open stream: No such file or directory', 'D:\\CODE\\php\\challenge-ci4\\app\\Views\\pages\\home.php', 14, [])
+ 2 APPPATH\Views\pages\home.php(14): require()
+ 3 SYSTEMPATH\View\View.php(228): include('D:\\CODE\\php\\challenge-ci4\\app\\Views\\pages\\home.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/home', [], true)
+ 6 APPPATH\Controllers\Pages.php(9): view('pages/home')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\CODE\\php\\challenge-ci4\\public\\index.php')
+CRITICAL - 2023-11-25 13:13:27 --> include(./component/parts/navbar.php): failed to open stream: No such file or directory
+in APPPATH\Views\pages\home.php on line 14.
+ 1 APPPATH\Views\pages\home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(./component/parts/navbar.php): failed to open stream: No such file or directory', 'D:\\CODE\\php\\challenge-ci4\\app\\Views\\pages\\home.php', 14, [])
+ 2 APPPATH\Views\pages\home.php(14): include()
+ 3 SYSTEMPATH\View\View.php(228): include('D:\\CODE\\php\\challenge-ci4\\app\\Views\\pages\\home.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/home', [], true)
+ 6 APPPATH\Controllers\Pages.php(9): view('pages/home')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\CODE\\php\\challenge-ci4\\public\\index.php')
