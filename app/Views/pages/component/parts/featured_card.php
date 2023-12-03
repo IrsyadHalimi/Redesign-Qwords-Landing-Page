@@ -1,4 +1,4 @@
-<section id="featured-card" class="orange-background py-5 border-top my-5 shadow">
+<section id="featured-card" class="orange-background py-5 mb-5 shadow">
 	<div class="container">
 		<div class="row text-center justify-content-center py-2">
 			<div class="col-12 col-lg-10">

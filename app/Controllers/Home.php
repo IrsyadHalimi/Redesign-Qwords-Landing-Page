@@ -6,11 +6,8 @@ class Home extends BaseController
 {
     public function index(): string
     {
-        return view('welcome_message');
-    }
-    
-    public function coba(): string
-    {
-        echo "coba";
+        $n = 86400;
+        $this->cachePage($n);
+        return view('pages/home');
     }
 }

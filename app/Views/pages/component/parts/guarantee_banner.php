@@ -1,5 +1,5 @@
-<section id="guarantee-banner" class="orange-background shadow">
-  <div class="container col-xxl-8 mb-5">
+<section id="guarantee-banner" class="orange-background shadow my-5">
+  <div class="container col-xxl-8 mb-5 mt-3">
     <div class="row flex-lg-row-reverse my-3 pb-5 align-items-center g-5">
       <div class="col-lg-6">
         <img src="assets/img/cashback-img.png" class="d-block mx-lg-auto img-fluid" alt="banner-image" width="400" loading="lazy">

@@ -9,7 +9,7 @@
         </div>
       </div>
       <div class="col-lg-6">
-        <img src="assets/img/web-img.png" class="d-block mx-lg-auto img-fluid" alt="banner-image" width="500" loading="lazy">
+        <img src="assets/img/web-img.png" class="d-block mx-lg-auto img-fluid" alt="banner-image" width="450" loading="lazy">
       </div>
     </div>
   </div>

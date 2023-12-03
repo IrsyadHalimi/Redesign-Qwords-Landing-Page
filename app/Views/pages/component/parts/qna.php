@@ -1,9 +1,9 @@
 <section id="qna">
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-12 col-lg-10">
-				<h2 class="heading-section text-center">
-					Pertanyaan seputar <span class="text-qw-primary">Layanan Web Hosting</span> Qwords
+			<div class="col-12 col-lg-10 text-center">
+				<h2 class="fw-bolder">
+					Pertanyaan seputar Layanan Web Hosting Qwords
 				</h2>
 			</div>
 		</div>
@@ -12,7 +12,7 @@
 				<div class="accordion" id="FAQ">
 					<div class="accordion-item">
 						<h3 class="accordion-header" id="heading1">
-							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+							<button class="btn fw-bold accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
 								Apa itu web hosting?
 							</button>
 						</h3>
@@ -28,7 +28,7 @@
 					</div>
 					<div class="accordion-item">
 						<h3 class="accordion-header" id="heading2">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+							<button class="btn fw-bold accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
 								Ada berapa jenis hosting di Qwords?
 							</button>
 						</h3>
@@ -63,7 +63,7 @@
 					</div>
 					<div class="accordion-item">
 						<h3 class="accordion-header" id="heading3">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="true" aria-controls="collapse3">
+							<button class="btn fw-bold accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="true" aria-controls="collapse3">
 								Apa kelebihan dari cloud hosting Qwords?
 							</button>
 						</h3>
@@ -77,7 +77,7 @@
 					</div>
 					<div class="accordion-item">
 						<h3 class="accordion-header" id="heading4">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="true" aria-controls="collapse4">
+							<button class="btn fw-bold accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="true" aria-controls="collapse4">
 								Mengapa saya perlu web hosting?
 							</button>
 						</h3>
@@ -93,7 +93,7 @@
 					</div>
 					<div class="accordion-item">
 						<h3 class="accordion-header" id="heading5">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="true" aria-controls="collapse5">
+							<button class="btn fw-bold accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="true" aria-controls="collapse5">
 								Bagaimana cara membeli hosting?
 							</button>
 						</h3>
@@ -107,7 +107,7 @@
 					</div>
 					<div class="accordion-item">
 						<h3 class="accordion-header" id="heading6">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="true" aria-controls="collapse6">
+							<button class="btn fw-bold accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="true" aria-controls="collapse6">
 								Apakah saya bisa transfer Hosting ke Qwords Cloud Web Hosting Indonesia?
 							</button>
 						</h3>

@@ -1,0 +1,1300 @@
+a:3:{s:4:"time";i:1701599248;s:3:"ttl";i:43200;s:4:"data";s:88870:"a:2:{s:7:"headers";a:2:{s:13:"Cache-Control";s:29:"no-store, max-age=0, no-cache";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";}s:6:"output";s:88710:"<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Qwords</title>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+		<link rel="icon" href="assets/img/logo-qwords-icon.png">
+</head>
+<body>
+  <!-- <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button> --><section id="navbar-menu">
+    <nav class="navbar navbar-expand-lg navbar-light shadow fixed-top bg-white">
+        <div class="container-lg">
+            <a class="navbar-brand" href="#">
+                <img src="assets/img/logo-qwords.png" alt="" width="auto" height="50">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Cloud Hosting
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">Action</a></li>
+                            <li><a class="dropdown-item" href="#">Another action</a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Server
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">Action</a></li>
+                            <li><a class="dropdown-item" href="#">Another action</a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Domain
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">Action</a></li>
+                            <li><a class="dropdown-item" href="#">Another action</a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Email Suite
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">Action</a></li>
+                            <li><a class="dropdown-item" href="#">Another action</a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="True">
+                        Services
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">Action</a></li>
+                            <li><a class="dropdown-item" href="#">Another action</a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Internet Access
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">Action</a></li>
+                            <li><a class="dropdown-item" href="#">Another action</a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" role="button"><span class="f-orange">Promo</span></a>
+                    </li>
+                </ul>
+                <button class="btn">Register</button>
+                <button class="btn mx-2">Login</button>
+            </div>
+        </div>
+    </nav>
+</section><section id="hero">
+  <div class="container py-1 pt-5 mb-3">
+    <div class="row flex-lg-row-reverse pt-5 align-items-center g-5">
+      <div class="col-lg-6"><img src="assets/img/banner-img.png" class="d-block mx-lg-auto img-fluid" alt="banner-image" width="520" loading="lazy">
+      </div>
+      <div class="col-lg-6">
+        <h1 class="display-4 fw-bold lh-1 mb-3">Cloud Hosting untuk Kesuksesan Websitemu!</h1>
+        <p class="lead fw-bold">Qwords menawarkan layanan Cloud Hosting yang Cepat, Aman, dan Dukungan 24 jam untuk memenuhi kebutuhan hosting Anda. Tersertifikasi ISO 27001 dengan Data Center Tier 3.</p>
+        <p class="lead fw-bold f-orange">#QwordsYourSuccess</p>
+        <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+          <button type="button" class="btn btn-lg px-4 me-md-2">Pesan Sekarang</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section><section id="badge">
+  <div class="container col-xxl-8 mb-5">
+    <div class="row flex-lg-row-reverse align-items-center">
+      <div class="col-lg-6">
+        <div id="pse" class="">
+          <p class="fw-bold mb-3 mb-lg-12 h5home">Terdaftar di PSE, ICANN dan Partner Lainnya</p>
+          <div class="d-flex align-items-center flex-wrap">
+            <a href="https://pse.kominfo.go.id/tdpse-detail/1447">
+              <div class="me-3">
+              <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/code.webp" alt="code.webp" width="70px">
+              </div>
+            </a>
+            <a href="https://www.icann.org/en/accredited-registrars?sort-direction=asc&amp;sort-param=name&amp;page=1&amp;iana-number=4029&amp;view-all=true">
+              <div class="me-3">
+                <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/icann-logo.webp" alt="icann-logo.webp" width="70px">
+              </div>
+            </a>
+            <div class="me-3">
+              <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/badge_litespeed.svg" alt="Badge litespeed" width="70px">
+            </div>
+            <div class="me-3">
+              <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/badge_whmadmin.svg" alt="Badge WHM" width="70px">
+            </div>
+            <div class="me-3">
+              <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/acronis-cloud-tech.webp" alt="acronis-cloud-tech.webp" width="70px">
+            </div>
+            <div class="me-3">
+              <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/acronis-cloud-sales.webp" alt="acronis-cloud-sales.webp" width="70px">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="promo-img">
+        <a href="https://qwords.com/v2/unlimited-hosting/">
+        <img src="assets/img/promo-img.png" class="d-block mx-lg-auto img-fluid" alt="promo-image" loading="lazy">
+        </a>
+      </div>
+    </div>
+  </div>
+</section><section id="search-domain" class="orange-background">
+	<div class="container py-4">
+		<div class="row my-5">
+			<div class="col-12">
+				<div id="inner-search-domain">
+					<div class="text-center w-80 search-wrapper">
+						<h2 class="fw-bolder f-white">Cari Nama Domainmu</h2>
+						<p class="lead fw-normal mb-0 mx-auto f-white">
+							Nama Domain digunakan untuk mempermudah pengunjung menuju ke situs Anda. Pilih nama domain yang paling mencerminkan bisnis, produk, atau layanan Anda.
+						</p>
+						<form class="row mt-5">
+							<div class="col-12 col-sm-7 col-md-7 col-lg-8">
+								<div class="input-group input-group-lg">
+									<input type="text" class="form-control border-0" name="domain" id="domain-input" placeholder="Cari nama domain Anda">
+								</div>
+							</div>
+							<div class="col-12 col-sm-5 col-md-5 col-lg-2 mt-3 mt-sm-0">
+								<div class="input-group input-group-lg">
+									<select class="form-select border-0 white-btn">
+										<option selected value=".com">.com</option>
+										<option value=".id">.id</option>
+										<option value=".info">.info</option>
+									</select>
+								</div>
+							</div>
+							<div class="col-12 col-lg-2 mt-3 mt-lg-0">
+								<div class="d-grid">
+									<button type="button" class="btn py-2 fw-bold white-btn" id="btn-checkdomain">Cari</button>
+								</div>
+							</div>
+						</form>
+						<div class="discount-box mt-5">
+							<div class="row justify-content-center">
+								<div class="col-12 col-lg-6">
+									<div class="d-flex flex-wrap justify-content-around justify-content-lg-center gap-3 f-white">
+										<div>
+											<div class="fw-bold">
+												.com
+											</div>
+											<h3 class="fw-bold">Rp 165.000</h3>
+										</div>
+										<div class="d-none d-sm-block vr"></div>
+										<div>
+											<div class="fw-bold">
+												.id
+											</div>
+											<h3 class="fw-bold">Rp 225.000</h3>
+										</div>
+										<div class="d-none d-sm-block vr"></div>
+										<div>
+											<div class="fw-bold">
+												.info
+											</div>
+											<h3 class="fw-bold">Rp 77.000</h3>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section><section id="featured-card" class="orange-background py-5 mb-5 shadow">
+	<div class="container">
+		<div class="row text-center justify-content-center py-2">
+			<div class="col-12 col-lg-10">
+				<h2 class="fw-bolder f-white mb-0">
+					Cloud Hosting Indonesia
+					<h1 class="fw-bolder f-white mb-0">Diskon Hingga 50%</h1>
+				</h2>
+				<p class="lead fw-normal mb-0 mx-auto f-white my-2 mb-5">
+					Layanan cloud hosting indonesia terbaik dengan teknologi andal untuk website anda
+				</p>
+			</div>
+		</div>
+		<div class="row justify-content-center pb-3">
+			<div class="col-12 col-sm-6 col-lg-3 p b-3">
+				<div class="card p-3 border-0 shadow-lg rounded-card">
+					<div class="card-heading mb-2">
+						<h5 class="mb-2 h3home">Value Cloud Hosting</h5>
+						<h4 class="fw-bold">VCH1</h4>
+					</div>
+					<div class="card-price">
+						<s class="text-muted">Rp 24.500</s>
+						<h3 class="fw-bold text-qw-primary pricehome f-orange">Rp 14.500</h3>
+					</div>
+					<div class="card-description">
+						<div class="d-flex align-items-center mt-1">
+							<div class="icon-wrapper me-3 mb-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="33px" height="33px" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ff6d0b}</style><path d="M0 96C0 60.7 28.7 32 64 32H448c35.3 0 64 28.7 64 64V280.4c-17-15.2-39.4-24.4-64-24.4H64c-24.6 0-47 9.2-64 24.4V96zM64 288H448c35.3 0 64 28.7 64 64v64c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V352c0-35.3 28.7-64 64-64zM320 416a32 32 0 1 0 0-64 32 32 0 1 0 0 64zm128-32a32 32 0 1 0 -64 0 32 32 0 1 0 64 0z"/></svg>
+							</div>
+							<div class="label-spec">
+								<div>Disk</div>
+								<p class="fw-bold spechome">3 GB</p>
+							</div>
+						</div>
+						<div class="d-flex align-items-center mt-1">
+							<div class="icon-wrapper me-3 mb-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="33px" height="33px" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ff6d0b}</style><path d="M0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256zM288 96a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zM256 416c35.3 0 64-28.7 64-64c0-17.4-6.9-33.1-18.1-44.6L366 161.7c5.3-12.1-.2-26.3-12.3-31.6s-26.3 .2-31.6 12.3L257.9 288c-.6 0-1.3 0-1.9 0c-35.3 0-64 28.7-64 64s28.7 64 64 64zM176 144a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zM96 288a32 32 0 1 0 0-64 32 32 0 1 0 0 64zm352-32a32 32 0 1 0 -64 0 32 32 0 1 0 64 0z"/></svg>
+							</div>
+							<div class="label-spec">
+								<div>Bandwith</div>
+								<p class="fw-bold spechome">Unlimited</p>
+							</div>
+						</div>
+						<div class="d-flex align-items-center mt-1">
+							<div class="icon-wrapper me-3 mb-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="33px" height="33px" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ff6d0b}</style><path d="M176 24c0-13.3-10.7-24-24-24s-24 10.7-24 24V64c-35.3 0-64 28.7-64 64H24c-13.3 0-24 10.7-24 24s10.7 24 24 24H64v56H24c-13.3 0-24 10.7-24 24s10.7 24 24 24H64v56H24c-13.3 0-24 10.7-24 24s10.7 24 24 24H64c0 35.3 28.7 64 64 64v40c0 13.3 10.7 24 24 24s24-10.7 24-24V448h56v40c0 13.3 10.7 24 24 24s24-10.7 24-24V448h56v40c0 13.3 10.7 24 24 24s24-10.7 24-24V448c35.3 0 64-28.7 64-64h40c13.3 0 24-10.7 24-24s-10.7-24-24-24H448V280h40c13.3 0 24-10.7 24-24s-10.7-24-24-24H448V176h40c13.3 0 24-10.7 24-24s-10.7-24-24-24H448c0-35.3-28.7-64-64-64V24c0-13.3-10.7-24-24-24s-24 10.7-24 24V64H280V24c0-13.3-10.7-24-24-24s-24 10.7-24 24V64H176V24zM160 128H352c17.7 0 32 14.3 32 32V352c0 17.7-14.3 32-32 32H160c-17.7 0-32-14.3-32-32V160c0-17.7 14.3-32 32-32zm192 32H160V352H352V160z"/></svg>
+							</div>
+							<div class="label-spec">
+								<div>Core CPU</div>
+								<p class="fw-bold spechome">0.5 Core</p>
+							</div>
+						</div>
+						<div class="d-flex align-items-center mt-1">
+							<div class="icon-wrapper me-3 mb-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="33px" height="33px" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ff6d0b}</style><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zM200 344V280H136c-13.3 0-24-10.7-24-24s10.7-24 24-24h64V168c0-13.3 10.7-24 24-24s24 10.7 24 24v64h64c13.3 0 24 10.7 24 24s-10.7 24-24 24H248v64c0 13.3-10.7 24-24 24s-24-10.7-24-24z"/></svg>
+							</div>
+							<div class="label-spec">
+								<div>Addon / parked domain</div>
+								<p class="fw-bold spechome">No</p>
+							</div>
+						</div>
+					</div>
+					<div class="d-grid mt-auto">
+						<a href="https://portal.qwords.com/order/?pid=528&amp;billingcycle=annually" class="btn btn-cta rounded-5">Pesan Sekarang</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-12 col-sm-6 col-lg-3 mb-3">
+				<div class="card p-3 border-0 shadow-lg rounded-card">
+					<div class="card-heading mb-2">
+						<h5 class="mb-2 h3home">Unlimited Hosting</h5>
+						<h4 class="fw-bold">Signature</h4>
+					</div>
+					<div class="card-price">
+						<s class="text-muted mb-0">Rp 109.000</s>
+						<h3 class="fw-bold text-qw-primary pricehome f-orange">Rp 89.900</h3>
+					</div>
+					<div class="card-description">
+						<div class="d-flex align-items-center mt-1">
+							<div class="icon-wrapper me-3 mb-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="33px" height="33px" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ff6d0b}</style><path d="M0 96C0 60.7 28.7 32 64 32H448c35.3 0 64 28.7 64 64V280.4c-17-15.2-39.4-24.4-64-24.4H64c-24.6 0-47 9.2-64 24.4V96zM64 288H448c35.3 0 64 28.7 64 64v64c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V352c0-35.3 28.7-64 64-64zM320 416a32 32 0 1 0 0-64 32 32 0 1 0 0 64zm128-32a32 32 0 1 0 -64 0 32 32 0 1 0 64 0z"/></svg>
+							</div>
+							<div class="label-spec">
+								<div>Disk</div>
+								<p class="fw-bold spechome">Unlimited</p>
+							</div>
+						</div>
+						<div class="d-flex align-items-center mt-1">
+							<div class="icon-wrapper me-3 mb-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="33px" height="33px" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ff6d0b}</style><path d="M0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256zM288 96a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zM256 416c35.3 0 64-28.7 64-64c0-17.4-6.9-33.1-18.1-44.6L366 161.7c5.3-12.1-.2-26.3-12.3-31.6s-26.3 .2-31.6 12.3L257.9 288c-.6 0-1.3 0-1.9 0c-35.3 0-64 28.7-64 64s28.7 64 64 64zM176 144a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zM96 288a32 32 0 1 0 0-64 32 32 0 1 0 0 64zm352-32a32 32 0 1 0 -64 0 32 32 0 1 0 64 0z"/></svg>
+							</div>
+							<div class="label-spec">
+								<div>Bandwith</div>
+								<p class="fw-bold spechome">Unlimited</p>
+							</div>
+						</div>
+						<div class="d-flex align-items-center mt-1">
+							<div class="icon-wrapper me-3 mb-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="33px" height="33px" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ff6d0b}</style><path d="M176 24c0-13.3-10.7-24-24-24s-24 10.7-24 24V64c-35.3 0-64 28.7-64 64H24c-13.3 0-24 10.7-24 24s10.7 24 24 24H64v56H24c-13.3 0-24 10.7-24 24s10.7 24 24 24H64v56H24c-13.3 0-24 10.7-24 24s10.7 24 24 24H64c0 35.3 28.7 64 64 64v40c0 13.3 10.7 24 24 24s24-10.7 24-24V448h56v40c0 13.3 10.7 24 24 24s24-10.7 24-24V448h56v40c0 13.3 10.7 24 24 24s24-10.7 24-24V448c35.3 0 64-28.7 64-64h40c13.3 0 24-10.7 24-24s-10.7-24-24-24H448V280h40c13.3 0 24-10.7 24-24s-10.7-24-24-24H448V176h40c13.3 0 24-10.7 24-24s-10.7-24-24-24H448c0-35.3-28.7-64-64-64V24c0-13.3-10.7-24-24-24s-24 10.7-24 24V64H280V24c0-13.3-10.7-24-24-24s-24 10.7-24 24V64H176V24zM160 128H352c17.7 0 32 14.3 32 32V352c0 17.7-14.3 32-32 32H160c-17.7 0-32-14.3-32-32V160c0-17.7 14.3-32 32-32zm192 32H160V352H352V160z"/></svg>
+							</div>
+							<div class="label-spec">
+								<div>Core CPU</div>
+								<p class="fw-bold spechome">1 Core</p>
+							</div>
+						</div>
+						<div class="d-flex align-items-center mt-1">
+							<div class="icon-wrapper me-3 mb-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="33px" height="33px" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ff6d0b}</style><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zM200 344V280H136c-13.3 0-24-10.7-24-24s10.7-24 24-24h64V168c0-13.3 10.7-24 24-24s24 10.7 24 24v64h64c13.3 0 24 10.7 24 24s-10.7 24-24 24H248v64c0 13.3-10.7 24-24 24s-24-10.7-24-24z"/></svg>
+							</div>
+							<div class="label-spec">
+								<div>Addon / parked domain</div>
+								<p class="fw-bold spechome">5 / 5</p>
+							</div>
+						</div>
+					</div>
+					<div class="d-grid mt-auto">
+						<a href="https://portal.qwords.com/order/?promocode=FRSTTMESGN&amp;pid=392" class="btn btn-cta rounded-5">Pesan Sekarang</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-12 col-sm-6 col-lg-3 mb-3">
+				<div class="card p-3 border-0 shadow-lg rounded-card">
+					<div class="card-heading mb-2">
+						<h5 class="mb-2 h3home">High Performance</h3>
+						<h4 class="fw-bold">HPCH Bisnis 1</h4>
+					</div>
+					<div class="card-price">
+						<s class="text-muted">Rp 90.000</s>
+						<h3 class="fw-bold text-qw-primary pricehome f-orange">Rp 79.000</h3>
+					</div>
+					<div class="card-description">
+						<div class="d-flex align-items-center mt-1">
+							<div class="icon-wrapper me-3 mb-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="33px" height="33px" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ff6d0b}</style><path d="M0 96C0 60.7 28.7 32 64 32H448c35.3 0 64 28.7 64 64V280.4c-17-15.2-39.4-24.4-64-24.4H64c-24.6 0-47 9.2-64 24.4V96zM64 288H448c35.3 0 64 28.7 64 64v64c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V352c0-35.3 28.7-64 64-64zM320 416a32 32 0 1 0 0-64 32 32 0 1 0 0 64zm128-32a32 32 0 1 0 -64 0 32 32 0 1 0 64 0z"/></svg>
+							</div>
+							<div class="label-spec">
+								<div>Disk</div>
+								<p class="fw-bold spechome">3 GB</p>
+							</div>
+						</div>
+						<div class="d-flex align-items-center mt-1">
+							<div class="icon-wrapper me-3 mb-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="33px" height="33px" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ff6d0b}</style><path d="M0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256zM288 96a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zM256 416c35.3 0 64-28.7 64-64c0-17.4-6.9-33.1-18.1-44.6L366 161.7c5.3-12.1-.2-26.3-12.3-31.6s-26.3 .2-31.6 12.3L257.9 288c-.6 0-1.3 0-1.9 0c-35.3 0-64 28.7-64 64s28.7 64 64 64zM176 144a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zM96 288a32 32 0 1 0 0-64 32 32 0 1 0 0 64zm352-32a32 32 0 1 0 -64 0 32 32 0 1 0 64 0z"/></svg>
+							</div>
+							<div class="label-spec">
+								<div>Bandwith</div>
+								<p class="fw-bold spechome">Unlimited</p>
+							</div>
+						</div>
+						<div class="d-flex align-items-center mt-1">
+							<div class="icon-wrapper me-3 mb-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="33px" height="33px" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ff6d0b}</style><path d="M176 24c0-13.3-10.7-24-24-24s-24 10.7-24 24V64c-35.3 0-64 28.7-64 64H24c-13.3 0-24 10.7-24 24s10.7 24 24 24H64v56H24c-13.3 0-24 10.7-24 24s10.7 24 24 24H64v56H24c-13.3 0-24 10.7-24 24s10.7 24 24 24H64c0 35.3 28.7 64 64 64v40c0 13.3 10.7 24 24 24s24-10.7 24-24V448h56v40c0 13.3 10.7 24 24 24s24-10.7 24-24V448h56v40c0 13.3 10.7 24 24 24s24-10.7 24-24V448c35.3 0 64-28.7 64-64h40c13.3 0 24-10.7 24-24s-10.7-24-24-24H448V280h40c13.3 0 24-10.7 24-24s-10.7-24-24-24H448V176h40c13.3 0 24-10.7 24-24s-10.7-24-24-24H448c0-35.3-28.7-64-64-64V24c0-13.3-10.7-24-24-24s-24 10.7-24 24V64H280V24c0-13.3-10.7-24-24-24s-24 10.7-24 24V64H176V24zM160 128H352c17.7 0 32 14.3 32 32V352c0 17.7-14.3 32-32 32H160c-17.7 0-32-14.3-32-32V160c0-17.7 14.3-32 32-32zm192 32H160V352H352V160z"/></svg>
+							</div>
+							<div class="label-spec">
+								<div>Core CPU</div>
+								<p class="fw-bold spechome">1 Core</p>
+							</div>
+						</div>
+						<div class="d-flex align-items-center mt-1">
+							<div class="icon-wrapper me-3 mb-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="33px" height="33px" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ff6d0b}</style><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zM200 344V280H136c-13.3 0-24-10.7-24-24s10.7-24 24-24h64V168c0-13.3 10.7-24 24-24s24 10.7 24 24v64h64c13.3 0 24 10.7 24 24s-10.7 24-24 24H248v64c0 13.3-10.7 24-24 24s-24-10.7-24-24z"/></svg>
+							</div>
+							<div class="label-spec">
+								<div>Addon / parked domain</div>
+								<p class="fw-bold spechome">-</p>
+							</div>
+						</div>
+					</div>
+					<div class="d-grid mt-auto">
+						<a href="https://portal.qwords.com/order/?pid=596&amp;billingcycle=annually" class="btn btn-cta rounded-5">Pesan Sekarang</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-12 col-sm-6 col-lg-3 mb-3">
+				<div class="card p-3 border-0 shadow-lg rounded-card">
+					<div class="card-heading mb-2">
+						<h5 class="mb-2 h3home">Cloud VPS KVM SSD</h3>
+						<h4 class="fw-bold">VPS SC1</h4>
+					</div>
+					<div class="card-price">
+						<s class="text-muted">Rp 135.000</s>
+						<h3 class="fw-bold text-qw-primary pricehome f-orange">Rp 75.000</h3>
+					</div>
+					<div class="card-description">
+						<div class="d-flex align-items-center mt-1">
+							<div class="icon-wrapper me-3 mb-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="33px" height="33px" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ff6d0b}</style><path d="M0 96C0 60.7 28.7 32 64 32H448c35.3 0 64 28.7 64 64V280.4c-17-15.2-39.4-24.4-64-24.4H64c-24.6 0-47 9.2-64 24.4V96zM64 288H448c35.3 0 64 28.7 64 64v64c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V352c0-35.3 28.7-64 64-64zM320 416a32 32 0 1 0 0-64 32 32 0 1 0 0 64zm128-32a32 32 0 1 0 -64 0 32 32 0 1 0 64 0z"/></svg>
+							</div>
+							<div class="label-spec">
+								<div>Disk</div>
+								<p class="fw-bold spechome">25 GB</p>
+							</div>
+						</div>
+						<div class="d-flex align-items-center mt-1">
+							<div class="icon-wrapper me-3 mb-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="33px" height="33px" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ff6d0b}</style><path d="M0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256zM288 96a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zM256 416c35.3 0 64-28.7 64-64c0-17.4-6.9-33.1-18.1-44.6L366 161.7c5.3-12.1-.2-26.3-12.3-31.6s-26.3 .2-31.6 12.3L257.9 288c-.6 0-1.3 0-1.9 0c-35.3 0-64 28.7-64 64s28.7 64 64 64zM176 144a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zM96 288a32 32 0 1 0 0-64 32 32 0 1 0 0 64zm352-32a32 32 0 1 0 -64 0 32 32 0 1 0 64 0z"/></svg>
+							</div>
+							<div class="label-spec">
+								<div>Bandwith</div>
+								<p class="fw-bold spechome">Unlimited</p>
+							</div>
+						</div>
+						<div class="d-flex align-items-center mt-1">
+							<div class="icon-wrapper me-3 mb-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="33px" height="33px" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ff6d0b}</style><path d="M176 24c0-13.3-10.7-24-24-24s-24 10.7-24 24V64c-35.3 0-64 28.7-64 64H24c-13.3 0-24 10.7-24 24s10.7 24 24 24H64v56H24c-13.3 0-24 10.7-24 24s10.7 24 24 24H64v56H24c-13.3 0-24 10.7-24 24s10.7 24 24 24H64c0 35.3 28.7 64 64 64v40c0 13.3 10.7 24 24 24s24-10.7 24-24V448h56v40c0 13.3 10.7 24 24 24s24-10.7 24-24V448h56v40c0 13.3 10.7 24 24 24s24-10.7 24-24V448c35.3 0 64-28.7 64-64h40c13.3 0 24-10.7 24-24s-10.7-24-24-24H448V280h40c13.3 0 24-10.7 24-24s-10.7-24-24-24H448V176h40c13.3 0 24-10.7 24-24s-10.7-24-24-24H448c0-35.3-28.7-64-64-64V24c0-13.3-10.7-24-24-24s-24 10.7-24 24V64H280V24c0-13.3-10.7-24-24-24s-24 10.7-24 24V64H176V24zM160 128H352c17.7 0 32 14.3 32 32V352c0 17.7-14.3 32-32 32H160c-17.7 0-32-14.3-32-32V160c0-17.7 14.3-32 32-32zm192 32H160V352H352V160z"/></svg>
+							</div>
+							<div class="label-spec">
+								<div>Core CPU</div>
+								<p class="fw-bold spechome">1 Core</p>
+							</div>
+						</div>
+						<div class="d-flex align-items-center mt-1">
+							<div class="icon-wrapper me-3 mb-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="33px" height="33px" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ff6d0b}</style><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zM200 344V280H136c-13.3 0-24-10.7-24-24s10.7-24 24-24h64V168c0-13.3 10.7-24 24-24s24 10.7 24 24v64h64c13.3 0 24 10.7 24 24s-10.7 24-24 24H248v64c0 13.3-10.7 24-24 24s-24-10.7-24-24z"/></svg>
+							</div>
+							<div class="label-spec">
+								<div>Addon / parked domain</div>
+								<p class="fw-bold spechome">Unlimited</p>
+							</div>
+						</div>
+					</div>
+					<div class="d-grid mt-auto">
+						<a href="https://portal.qwords.com/order/?pid=634&amp;billingcycle=annually" class="btn btn-cta rounded-5">Pesan Sekarang</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section><section id="additional-product py-4 shadow">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-12 col-lg-8 mb-4 text-center">
+				<h2 class="fw-bolder">Lihat Juga Layanan Kami Yang Lain</h2>
+				<p class="lead fw-normal mb-0 mx-auto my-2 mb-3">
+					Optimalkan performa website bisnis Anda dengan berbagai layanan berkualitas dari Qwords
+				</p>
+			</div>
+		</div>
+		<div class="row justify-content-center">
+			<div class="col-12 col-sm-6 col-lg-4 mb-3">
+				<div class="card border-0 shadow p-3 rounded-card">
+					<img src="assets/img/ssl-img.png" class="card-img-top" alt="ssl-img">
+					<div class="card-heading d-flex align-items-center mb-3">
+						<h3 class="mb-0 fw-bold h5home">SSL</h3>
+					</div>
+					<div class="card-description">
+						<p>
+							Jadikan website Anda lebih terpercaya dan disukai oleh search
+							engine dengan menggunakan SSL Certificate.
+						</p>
+					</div>
+					<div class="card-price mb-4">
+						<p class="mb-2">Mulai dari</p>
+						<p class="text-qw-primary fw-bold pricehome">
+							Rp. 112.000<span class="fs-6 text-dark fw-light"> / tahun</span>
+						</p>
+					</div>
+					<div class="d-grid mt-auto">
+						<a href="https://www.qwords.com/v2/services/secured-sockets-layer-certificate/" class="btn btn-cta rounded-5">Pesan Sekarang</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-12 col-sm-6 col-lg-4 mb-3">
+				<div class="card border-0 shadow p-3 rounded-card">
+					<img src="assets/img/dedicated-img.png" class="card-img-top" alt="ssl-img">
+					<div class="card-heading d-flex align-items-center mb-3">
+						<h3 class="mb-0 fw-bold h5home">Dedicated Server</h3>
+					</div>
+					<div class="card-description">
+						<p>
+							Nikmati kelola Dedicated Server sendiri dengan akses remote dari
+							seluruh dunia tanpa batas
+						</p>
+					</div>
+					<div class="card-price mb-4">
+						<p class="mb-2">Mulai dari</p>
+						<p class="text-qw-primary fw-bold pricehome">
+							Rp. 499.000<span class="fs-6 text-dark fw-light"> / bulan</span>
+						</p>
+					</div>
+					<div class="d-grid mt-auto">
+						<a href="https://www.qwords.com/v2/dedicated-server/dedicated-box/" class="btn btn-cta rounded-5">Pesan Sekarang</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-12 col-sm-6 col-lg-4 mb-3">
+				<div class="card border-0 shadow p-3 rounded-card">
+					<img src="assets/img/colocation-img.png" class="card-img-top" alt="ssl-img">
+					<div class="card-heading d-flex align-items-center mb-3">
+						<h3 class="mb-0 fw-bold h5home">Colocation Server</h3>
+					</div>
+					<div class="card-description">
+						<p>
+							Akses cepat dari seluruh dunia dengan fasilitas 24x7 full
+							monitoring dengan cooling system terbaik serta fire extinguisher
+						</p>
+					</div>
+					<div class="card-price mb-4">
+						<p class="mb-2">Mulai dari</p>
+						<p class="text-qw-primary fw-bold pricehome">
+							Rp. 500.000<span class="fs-6 text-dark fw-light"> / bulan</span>
+						</p>
+					</div>
+					<div class="d-grid mt-auto">
+						<a href="https://www.qwords.com/v2/dedicated-server/colocation-server/" class="btn btn-cta rounded-5">Pesan Sekarang</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section><section id="solution shadow">
+	<div class="container my-5 pt-4 pb-4 shadow">
+		<div class="row justify-content-center">
+			<div class="col-12 col-lg-8 mb-4 text-center">
+				<h2 class="fw-bolder">Solusi Paket Hosting Terbaik dari Kami</h2>
+				<p class="lead fw-normal mb-0 mx-auto mt-2 mb-1">
+					Kami menawarkan solusi paket hosting terbaik untuk segala kebutuhan website dan sistem Anda. Mulai dari blog hingga website bisnis dan perusahaan
+				</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-12 col-sm-6 col-lg-4">
+				<a href="https://qwords.com/v2/hosting-dan-server-perusahaan/">
+					<div class="card ms-3 border-0" id="company">
+						<div class="p-3 card-text">
+							<h3 class="fw-bold f-orange">Perusahaan</h3>
+							<p>
+								Wujudkan website perusahaan profesional dan berkelas dengan dukungan web hosting terbaik dan fitur keamanan ekstra
+							</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-12 col-sm-6 col-lg-4">
+				<a href="https://qwords.com/v2/hosting-dan-server-umkm/">
+					<div class="card ms-3 border-0" id="umkm">
+						<div class="p-3 card-text">
+							<h3 class="fw-bold f-orange">UMKM dan Toko Online</h3>
+							<p>
+								Memberikan hosting terbaik untuk mendukung kebutuhan website pemasaran barang/jasa secara online.
+							</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-12 col-sm-6 col-lg-4">
+				<a href="https://qwords.com/v2/hosting-dan-server-organisasi/">
+					<div class="card ms-3 border-0" id="orgs">
+						<div class="p-3 card-text">
+							<h3 class="fw-bold f-orange">Organisasi dan Komunitas</h3>
+							<p>
+								Bikin website organisasi atau komunitas Anda dengan paket hosting unggulan yang ramah kantong.
+							</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-12 col-sm-6 col-lg-4">
+				<a href="https://qwords.com/v2/hosting-dan-server-sekolah/">
+					<div class="card ms-3 border-0" id="school">
+						<div class="p-3 card-text">
+							<h3 class="fw-bold f-orange">Sekolah</h3>
+							<p>
+								Infrastruktur web hosting terbaik untuk menunjang kegiatan e-learning. Didukung platform MOODLE khusus pembelajaran daring
+							</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-12 col-sm-6 col-lg-4">
+				<a href="https://qwords.com/v2/hosting-dan-server-developer/">
+					<div class="card ms-3 border-0" id="dev">
+						<div class="p-3 card-text">
+							<h3 class="fw-bold f-orange">Developer</h3>
+							<p>
+								Tersedia paket hosting Indonesia dengan spesifikasi khusus yang dev-friendly. Ekstra NodeJS dan Git Version Control
+							</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-12 col-sm-6 col-lg-4">
+				<a href="https://qwords.com/v2/hosting-dan-server-blogger/">
+					<div class="card ms-3 border-0" id="blog">
+						<div class="p-3 card-text">
+							<h3 class="fw-bold f-orange">Blogger dan Personal</h3>
+							<p>
+								Memfasilitasi blogger dengan infrastruktur hosting Indonesia terbaik serta template website premium untuk tampil lebih profesional
+							</p>
+						</div>
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
+</section><section id="commitment">
+	<div class="container">
+		<div class="row justify-content-center mb-lg-5">
+			<div class="col-12 col-lg-12 text-center">
+				<h2 class="fw-bolder">Komitmen Qwords</h2>
+				<p class="lead fw-normal mb-0 mx-auto mt-2 mb-1">
+					Berbagai alasan mengapa pelanggan memilih sewa hosting di Qwords
+				</p>
+			</div>
+		</div>
+		<div class="row justify-content-center mt-3">
+			<div class="col-12 col-sm-6 col-lg-4 mb-3 mb-lg-5 text-md-start text-center">
+				<div class="commit card-benefit-2 rounded-5 p-3" style="min-height: 350px;">
+					<div class="icon-wrapper mb-3 mx-md-0 mx-auto">
+						<img data-lazyloaded="1" data-placeholder-resp="100pxx100px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/call.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/call.webp" alt="Layanan pelanggan hosting dan domain 24/7" width="100px" height="100px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/call.webp" alt="Layanan pelanggan hosting dan domain 24/7" width="100px" height="100px" /></noscript>
+					</div>
+					<h3 class="fw-bold h4home">Layanan 24/7</h3>
+					<p class="mx-md-0 mx-auto">
+						Tim Technical Support dan Customer Service Qwords siap membantu Anda
+						selama 24 jam, 7 hari. Anda dapat menghubungi melalui Live chat, Call
+						Center, dan Support Ticket.
+					</p>
+				</div>
+			</div>
+			<div class="col-12 col-sm-6 col-lg-4 mb-3 mb-lg-5 text-md-start text-center">
+				<div class="commit card-benefit-2 rounded-5 p-3" style="min-height: 350px;">
+					<div class="icon-wrapper mb-3 mx-md-0 mx-auto">
+						<img data-lazyloaded="1" data-placeholder-resp="100pxx100px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/book.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/book.webp" alt="panduan manual lengkap untuk pelanggan hosting dan domain" width="100px" height="100px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/book.webp" alt="panduan manual lengkap untuk pelanggan hosting dan domain" width="100px" height="100px" /></noscript>
+					</div>
+					<h3 class="fw-bold h4home">Panduan Manual Lengkap</h3>
+					<p class="mx-md-0 mx-auto">
+						Qwords dilengkapi dengan halaman knowledge base berisi tutorial dan tips seputar pengelolaan website dan hosting. Dapat diakses dengan mudah dan solutif
+					</p>
+				</div>
+			</div>
+			<div class="col-12 col-sm-6 col-lg-4 mb-3 mb-lg-5 text-md-start text-center">
+				<div class="commit card-benefit-2 rounded-5 p-3" style="min-height: 350px;">
+					<div class="icon-wrapper mb-3 mx-md-0 mx-auto">
+						<img data-lazyloaded="1" data-placeholder-resp="100pxx100px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/router.webp " loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/router.webp " alt="paket hosting Indonesia dengan up time 99.99%" width="100px" height="100px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/router.webp " alt="paket hosting Indonesia dengan up time 99.99%" width="100px" height="100px" /></noscript>
+					</div>
+					<h3 class="fw-bold h4home">Up time 99.99%</h3>
+					<p class="mx-md-0 mx-auto">
+						Uptime Network &amp; Server di atas 99. 99% dengan konfigurasi server yang
+						tepat. Didukung manajemen jaringan dan multiple upstream tier 1
+						provider network serta multiple peering.
+					</p>
+				</div>
+			</div>
+			<div class="col-12 col-sm-6 col-lg-4 mb-3 mb-lg-5 text-md-start text-center">
+				<div class="commit card-benefit-2 rounded-5 p-3" style="min-height: 350px;">
+					<div class="icon-wrapper mb-3 mx-md-0 mx-auto">
+						<img data-lazyloaded="1" data-placeholder-resp="100pxx100px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/guard.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/guard.webp" alt="layanan hosting Indonesia dengan jaminan keamanan data" width="100px" height="100px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/guard.webp" alt="layanan hosting Indonesia dengan jaminan keamanan data" width="100px" height="100px" /></noscript>
+					</div>
+					<h3 class="fw-bold h4home">Jaminan keamanan</h3>
+					<p class="mx-md-0 mx-auto">
+						Keamanan menjadi fokus utama kami di Qwords. Tindakan pemantauan dan
+						pencegahan yang berstandar &amp; berkelanjutan telah menjadi perhatian
+						utama kami.
+					</p>
+				</div>
+			</div>
+			<div class="col-12 col-sm-6 col-lg-4 mb-3 mb-lg-5 text-md-start text-center">
+				<div class="commit card-benefit-2 rounded-5 p-3" style="min-height: 350px;">
+					<div class="icon-wrapper mb-3 mx-md-0 mx-auto">
+						<img data-lazyloaded="1" data-placeholder-resp="100pxx100px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/networkAlt.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/networkAlt.webp" alt="Clustered DNS" width="100px" height="100px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/networkAlt.webp" alt="Clustered DNS" width="100px" height="100px" /></noscript>
+					</div>
+					<h3 class="fw-bold h4home">Clustered DNS</h3>
+					<p class="mx-md-0 mx-auto">
+						DNS Server Cloud Hosting Qwords terhubung satu dengan yang lainnya.
+						Hal ini membuat DNS Server akan selalu dapat di akses karena saling
+						membackup antar server.
+					</p>
+				</div>
+			</div>
+			<div class="col-12 col-sm-6 col-lg-4 mb-3 mb-lg-5 text-md-start text-center">
+				<div class="commit card-benefit-2 rounded-5 p-3" style="min-height: 350px;">
+					<div class="icon-wrapper mb-3 mx-md-0 mx-auto">
+						<img data-lazyloaded="1" data-placeholder-resp="100pxx100px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/diamond.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/diamond.webp" alt="High
+						Enterprise Server" width="100px" height="100px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/diamond.webp" alt="High
+						Enterprise Server" width="100px" height="100px" /></noscript>
+					</div>
+					<h3 class="fw-bold h4home">High Enterprise Server</h3>
+					<p class="mx-md-0 mx-auto">
+						Standar server Qwords adalah server kelas enterprise Dual Xeon Octa
+						Core yang merupakan hardware kelas terbaik. Hardware ini biasa
+						digunakan oleh perusahaan terkemuka.
+					</p>
+				</div>
+			</div>
+			<div class="col-12 col-sm-6 col-lg-4 mb-3 mb-lg-5 text-md-start text-center">
+				<div class="commit card-benefit-2 rounded-5 p-3" style="min-height: 350px;">
+					<div class="icon-wrapper mb-3 mx-md-0 mx-auto">
+						<img data-lazyloaded="1" data-placeholder-resp="100pxx100px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/router.webp " loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/router.webp " alt="Tier 1
+						Network" width="100px" height="100px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/router.webp " alt="Tier 1
+						Network" width="100px" height="100px" /></noscript>
+					</div>
+					<h3 class="fw-bold h4home">Tier 1 Network</h3>
+					<p class="mx-md-0 mx-auto">
+						Tier 1 Network merupakan jaringan dunia tanpa transit network, yang
+						membuat jaringan lebih cepat serta jalur routing yang lebih pendek dan
+						ketersediaan backup network.
+					</p>
+				</div>
+			</div>
+			<div class="col-12 col-sm-6 col-lg-4 mb-3 mb-lg-5 text-md-start text-center">
+				<div class="commit card-benefit-2 rounded-5 p-3" style="min-height: 350px;">
+					<div class="icon-wrapper mb-3 mx-md-0 mx-auto">
+						<img data-lazyloaded="1" data-placeholder-resp="100pxx100px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/network.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/network.webp" alt="Peering
+						Network" width="100px" height="100px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/network.webp" alt="Peering
+						Network" width="100px" height="100px" /></noscript>
+					</div>
+					<h3 class="fw-bold h4home">Peering Network</h3>
+					<p class="mx-md-0 mx-auto">
+						Jaringan di Qwords terhubung langsung ke public peering seperti
+						OpenIXP dan CDIX yang membuat latency atau waktu tunggu pengiriman
+						data semakin kecil.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section><section id="promo-banner" class="orange-background shadow">
+  <div class="container col-xxl-8 mb-5">
+    <div class="row flex-lg-row-reverse my-3 pb-5 align-items-center g-5">
+      <div class="col-lg-6">
+        <h1 class="display-4 fw-bold lh-1 f-white mb-3">Bikin website impian dengan mudah disini hanya 1jutaan</h1>
+        <p class="lead fw-normal f-white">Bikin website impian include paket hosting Indonesia terbaik hanya 1 jutaan Jasa pembuatan website profesional untuk Perusahaan, Bisnis & UKM. Bikin Website Impian dengan mudah di sini, desain website elegan dan mudah dikelola</p>
+        <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+          <button type="button" class="btn btn-lg px-4 me-md-2 white-btn">Lihat Selengkapnya</button>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <img src="assets/img/web-img.png" class="d-block mx-lg-auto img-fluid" alt="banner-image" width="450" loading="lazy">
+      </div>
+    </div>
+  </div>
+</section><section id="customer">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8 mb-4 text-center">
+        <h2 class="fw-bolder">Telah Dipercaya oleh 45.000+ Pelanggan Aktif</h2>
+      </div>
+    </div>
+    <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item carousel-item-width active">
+          <div class="row px-auto justify-content-evenly">
+            <div class="col d-flex justify-content-center align-items-center">
+              <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/partner-customer/Pelanggan/Cimory.webp" alt="Cimory" width="200px" height="85px">
+            </div>
+            <div class="col d-flex justify-content-center align-items-center">
+              <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/partner-customer/Pelanggan/Forisa.webp" alt="Forisa" width="200px" height="85px">
+            </div>
+            <div class="col d-flex justify-content-center align-items-center">
+              <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/partner-customer/Pelanggan/Elsheskin.webp" alt="Elsheskin" width="200px" height="85px">
+            </div>
+            <div class="col d-flex justify-content-center align-items-center">
+              <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/partner-customer/Pelanggan/Icon.webp" alt="Icon +" width="200px" height="85px">
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item carousel-item-width">
+          <div class="row px-auto justify-content-evenly">
+            <div class="col d-flex justify-content-center align-items-center">
+              <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/partner-customer/Pelanggan/Horison.webp" alt="Horison" width="200px" height="85px">
+            </div>
+            <div class="col d-flex justify-content-center align-items-center">
+              <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/partner-customer/Pelanggan/MD.webp" alt="MD Pictures" width="200px" height="85px">
+            </div>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8 mb-4 text-center">
+        <p class="lead fw-normal mb-0 mx-auto mt-2 mb-1">
+          Dan masih banyak pelanggan lainnya
+        </p>
+      </div>
+  </div>
+</section><section id="partner">
+  <div class="container mt-4">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8 mb-4 mt-4 text-center">
+        <h2 class="fw-bolder">Partner Kami</h2>
+      </div>
+      <div class="col-12 text-center">				
+        <div class="image-list d-lg-block d-none">
+          <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/partner-customer/Partner/Google.webp" alt="Google Cloud" width="200px" height="85px">
+          <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/partner-customer/Partner/Cpanel.webp" alt="Cpanel" width="200px" height="85px">
+          <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/partner-customer/Partner/Idea.webp" alt="Idea" width="200px" height="85px">
+          <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/partner-customer/Partner/Archi.webp" alt="Archi" width="200px" height="85px">
+          <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/partner-customer/Partner/dotid.webp" alt="dotid" width="200px" height="85px">
+        </div>
+        <div class="image-list d-lg-none d-block">
+          <img loading="lazy" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/partner-customer/Partner/partner.webp" alt="dotid" width="200px" height="85px">
+        </div>
+        <a href="https://qwords.com/about-qwordscom/partner/" class="text-qw-primary fw-bold text-decoration-none">
+        <p class="lead fw-normal mb-0 mx-auto mt-2 mb-1">Lihat Semua Partner<img loading="lazy" class="ms-3" src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="Right.webp" width="20px" height="20px">	</p>				
+        </a>
+      </div>
+    </div>
+  </div>
+</section><section id="guarantee-banner" class="orange-background shadow my-5">
+  <div class="container col-xxl-8 mb-5 mt-3">
+    <div class="row flex-lg-row-reverse my-3 pb-5 align-items-center g-5">
+      <div class="col-lg-6">
+        <img src="assets/img/cashback-img.png" class="d-block mx-lg-auto img-fluid" alt="banner-image" width="400" loading="lazy">
+        </div>
+        <div class="col-lg-6">
+        <h1 class="display-4 fw-bold lh-1 f-white mb-3">Garansi 30 Hari Uang Kembali</h1>
+        <p class="lead fw-normal f-white">Untuk menjaga kepuasan pelanggan, kami memberikan garansi uang kembali yang berlaku hingga 30 hari setelah hosting aktif.</p>
+      </div>
+    </div>
+  </div>
+</section><section id="testimonial">
+	<div class="container">
+    <div class="row justify-content-center mb-lg-5">
+			<div class="col-12 col-lg-12 text-center">
+				<h2 class="fw-bolder">Apa Kata Mereka?</h2>
+				<p class="lead fw-normal mb-0 mx-auto mt-2 mb-1">
+        Apa kata mereka yang sudah menggunakan layanan web hosting Indonesia dari Qwords? Simak pengalaman mereka yang telah membuktikan sendiri fitur dari layanan kami.
+				</p>
+			</div>
+		</div>
+		<div class="row justify-content-center align-items-center mb-5 mb-lg-3 from-left">
+			<div class="order-2 order-lg-1 col-12 col-lg-6">
+				<div>
+					<h5>
+						Semoga Qwords dapat terus bertahan, sehingga kami dan masyarakat Indonesia bisa mendapatkan layanan yang terbaik dari Qwords.
+					</h5>
+				</div>
+				<div>
+					<p class="fst-italic">
+						Kami, ID Cert, merupakan sebuah perusahaan yang bergerak dalam bidang penyedia jasa informasi keamanan di Indonesia. Oleh
+						karena itu, kami membutuhkan Qwords untuk mendukung kebutuhan kami terhadap server dan hosting yang selalu up selama 24 jam.
+					</p>
+				</div>
+				<div class="ms-5">
+					<h6 class="d-inline me-3">Budi Raharjo</h6>
+					<span class="small text-muted">Founder ID Cert</span>
+				</div>
+				<div class="mt-2">
+					<a href="https://youtu.be/q2bJogin3eE" class="text-qw-primary ms-5 me-2 text-decoration-none fw-bold my-3">Lihat Video Selengkapnya
+						<img data-lazyloaded="1" data-placeholder-resp="20pxx20px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" loading="lazy" class="ms-3 entered litespeed-loaded" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="Right.webp" width="20px" height="20px" data-ll-status="loaded"><noscript><img loading="lazy" class="ms-3" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="Right.webp" width="20px" height="20px" /></noscript>
+					</a>
+				</div>
+			</div>
+			<div class="order-1 order-lg-2 col-12 order-lg-2 col-lg-6 mb-3 mb-lg-5">
+				<div class="mx-auto p-3">
+					<img data-lazyloaded="1" data-placeholder-resp="100%x100%" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi1.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi1.webp" alt="testi1.webp" width="100%" height="100%" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi1.webp" alt="testi1.webp" width="100%" height="100%"></noscript>
+				</div>
+			</div>
+		</div>
+		<div class="row justify-content-center align-items-center mb-5 mb-lg-3 from-left">
+			<div class="order-2 order-lg-2 col-12 col-lg-6">
+				<div>
+					<h5>
+						Pelayanan Qwords sangat cepat dan responsif, sehingga tidak butuh waktu lama untuk membantu website kami kembali normal.
+						Terbaik pokoknya, mah!
+					</h5>
+				</div>
+				<div>
+					<p class="fst-italic">
+						Sebagai media penyedia kabar seputar kota Bandung, Info BDG menggunakan website sebagai rumah informasi. Website kami yang
+						sempat down kini menunjukkan traffic yang tinggi setelah menggunakan dukungan dari Qwords.
+					</p>
+				</div>
+				<div class="ms-5">
+					<h6 class="d-inline me-3">Kuns Kurniawan</h6>
+					<span class="small text-muted">PR Event Info BDG</span>
+				</div>
+				<div class="mt-2">
+					<a href="https://youtu.be/f15zt4C2e4A" class="text-qw-primary ms-5 me-2 text-decoration-none fw-bold my-3">Lihat Video Selengkapnya
+						<img data-lazyloaded="1" data-placeholder-resp="20pxx20px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" loading="lazy" class="ms-3 entered litespeed-loaded" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="Right.webp" width="20px" height="20px" data-ll-status="loaded"><noscript><img loading="lazy" class="ms-3" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="Right.webp" width="20px" height="20px" /></noscript>
+					</a>
+				</div>
+			</div>
+			<div class="order-1 order-lg-1 col-12 col-lg-6">
+				<div class="mx-auto p-3">
+					<img data-lazyloaded="1" data-placeholder-resp="100%x100%" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi2.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi2.webp" alt="testi2.webp" width="100%" height="100%" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi2.webp" alt="testi2.webp" width="100%" height="100%"></noscript>
+				</div>
+			</div>
+		</div>
+		<div class="row justify-content-center align-items-center mb-5 mb-lg-3 from-left">
+			<div class="order-2 order-lg-1 col-12 col-lg-6">
+				<div>
+					<h5>
+						Hingga saat ini pula, kami tidak pernah menemukan masalah yang berarti dari layanan yang diberikan Qwords. Layanan Customer
+						Service yang sangat baik, membuat kami tidak ingin berpindah dari Qwords.
+					</h5>
+				</div>
+				<div class="quote-details">
+					<p class="fst-italic">
+						Penjualan Rumah Kopi Temanggung 90% dilakukan secara online, salah satunya menggunakan website. Semenjak tahun 2015 hingga
+						saat ini, kami menggunakan hosting dan domain dari Qwords.
+					</p>
+				</div>
+				<div class="ms-5">
+					<h6 class="d-inline me-3">Denden Sofiudin</h6>
+					<span class="small text-muted">Owner Rumah Kopi temanggung</span>
+				</div>
+				<div class="mt-2">
+					<a href="https://youtu.be/ftJMF63RznM" class="text-qw-primary ms-5 me-2 text-decoration-none fw-bold my-3">Lihat Video Selengkapnya
+						<img data-lazyloaded="1" data-placeholder-resp="20pxx20px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" loading="lazy" class="ms-3 entered litespeed-loaded" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="Right.webp" width="20px" height="20px" data-ll-status="loaded"><noscript><img loading="lazy" class="ms-3" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="Right.webp" width="20px" height="20px" /></noscript>
+					</a>
+				</div>
+			</div>
+			<div class="order-1 order-lg-2 col-12 col-lg-6">
+				<div class="mx-auto p-3">
+					<img data-lazyloaded="1" data-placeholder-resp="100%x100%" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi3.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi3.webp" alt="testi3.webp" width="100%" height="100%" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi3.webp" alt="testi3.webp" width="100%" height="100%"></noscript>
+				</div>
+			</div>
+		</div>
+	</div>
+</section><section id="covered" class="my-5 py-5">
+	<div class="container">
+		<div class="row justify-content-center align-items-center">
+			<div class="col-12 col-lg-6 text-center mb-3 mb-lg-4">
+				<h2>Diliput oleh</h2>
+			</div>
+			<div class="col-12 text-center">
+				<div class="image-list">
+					<img data-lazyloaded="1" data-placeholder-resp="200pxx85px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Detikcom.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Detikcom.webp" alt="Detikcom" width="160px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Detikcom.webp" alt="Detikcom" width="200px" height="85px" /></noscript>
+					<img data-lazyloaded="1" data-placeholder-resp="200pxx85px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Liputan6.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Liputan6.webp" alt="Liputan6" width="160px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Liputan6.webp" alt="Liputan6" width="200px" height="85px" /></noscript>
+					<img data-lazyloaded="1" data-placeholder-resp="200pxx85px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/TribunJogja.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/TribunJogja.webp" alt="TribunJogja" width="160px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/TribunJogja.webp" alt="TribunJogja" width="200px" height="85px" /></noscript>
+					<img data-lazyloaded="1" data-placeholder-resp="200pxx85px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/antara.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/antara.webp" alt="antara" width="160px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/antara.webp" alt="antara" width="200px" height="85px" /></noscript>
+					<img data-lazyloaded="1" data-placeholder-resp="200pxx85px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/RM.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/RM.webp" alt="RM" width="200px" height="85px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/RM.webp" alt="RM" width="160px" /></noscript>
+					<img data-lazyloaded="1" data-placeholder-resp="200pxx85px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/KoranBernas.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/KoranBernas.webp" alt="KoranBernas" width="160px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/KoranBernas.webp" alt="KoranBernas" width="200px" height="85px" /></noscript>
+				</div>
+				<div class="mt-4">
+					<a href="https://www.qwords.com/v2/media-publication/" class="text-qw-primary text-decoration-none fw-bolder">Lihat Semua Liputan
+						<img data-lazyloaded="1" data-placeholder-resp="20pxx20px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" loading="lazy" class="ms-3 entered litespeed-loaded" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="Right.webp" width="20px" height="20px" data-ll-status="loaded"><noscript><img loading="lazy" class="ms-3" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="Right.webp" width="20px" height="20px" /></noscript>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section><section id="payment">
+	<div class="container pb-3 mb-5">
+		<div class="row justify-content-center">
+			<div class="col-12 col-lg-8 text-center mb-3 mb-lg-4">
+				<h2 class="fw-bold">
+					Pilih metode e-payment otomatis. 
+				</h2>
+				<p class="lead fw-bold mb-0 mx-auto mt-2 mb-1">Layanan Domain, Hosting, VPS langsung aktif tanpa perlu konfirmasi bayar.</p>
+			</div>
+			<div class="col-12 text-center">
+				<div>
+					<img data-lazyloaded="1" data-placeholder-resp="100%x100%" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/all-payment.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/all-payment.webp" alt="payment.webp" width="100%" height="100%" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/all-payment.webp" alt="payment.webp" width="100%" height="100%"/></noscript>
+				</div>
+				<div>
+					<a href="https://qwords.com/v2/order-payment/" class="text-qw-primary fw-bold text-decoration-none">Lihat Panduan Pembayaran
+						<img data-lazyloaded="1" data-placeholder-resp="20pxx20px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" loading="lazy" class="ms-3 entered litespeed-loaded" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="Right.webp" width="20px" height="20px" data-ll-status="loaded"><noscript><img loading="lazy" class="ms-3" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="Right.webp" width="20px" height="20px"></noscript>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section><section id="qna">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-12 col-lg-10 text-center">
+				<h2 class="fw-bolder">
+					Pertanyaan seputar Layanan Web Hosting Qwords
+				</h2>
+			</div>
+		</div>
+		<div class="row mt-3 mt-lg-5">
+			<div class="col-12">
+				<div class="accordion" id="FAQ">
+					<div class="accordion-item">
+						<h3 class="accordion-header" id="heading1">
+							<button class="btn fw-bold accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+								Apa itu web hosting?
+							</button>
+						</h3>
+						<div id="collapse1" class="accordion-collapse collapse show" aria-labelledby="heading1" data-bs-parent="#FAQ">
+							<div class="accordion-body">
+								<p>
+								Hosting adalah tempat penyimpanan file dan data website seperti teks, video dan gambar website. File dan data tersebut di simpan di dalam server yang terkoneksi dengan internet sehingga data tersebut dapat diakses oleh siapa saja, kapan saja dan di mana saja. 
+								<br>
+								<br> Penjelasan lebih lanjut dapat Anda baca pada artikel ini : https://qwords.com/blog/apa-itu-hosting/
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item">
+						<h3 class="accordion-header" id="heading2">
+							<button class="btn fw-bold accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+								Ada berapa jenis hosting di Qwords?
+							</button>
+						</h3>
+						<div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#FAQ">
+							<div class="accordion-body">
+								<p>
+									Untuk mendukung kesuksesan bisnis di era digital, Qwords menghadirkan beragam paket hosting Indonesia yang bisa dipilih sesuai kebutuhan.
+									<br>
+									<br> </p><h4>Value Performance</h4>
+									Value Cloud Hosting merupakan paket cloud hosting murah Indonesia yang dirancang khusus untuk keperluan sederhana seperti UKM, toko online, blog, website sederhana, hingga email untuk penggunaan personal.
+									<br>
+									<br> Hosting murah dari Qwords untuk pengguna baru website atau Anda yang baru terjun ke dalam industri/bisnis online. Storage sesuai kebutuhan, fleksibel, dan ekstra lega mulai 3 GB hingga 
+									<br>
+									<br><h4>High Performance Cloud Hosting Bisnis</h4>
+									<br> Productivity starts here! Berikan Hosting terbaik untuk bisnis Anda. Kinerja lebih produktif dengan performa tinggi &amp; optimal untuk website profesional perusahaan, e-commerce, startup bisnis, serta support Moodle--platform open source yang memudahkan sistem pembelajaran online
+									<br>
+									<br><h4>High Performance Cloud Hosting Enterprise</h4>
+									<br>Nikmati versi terbaik dedicated hosting melalui paket HPCH Enterprise. Tampil lebih premium dengan resource dedicated hanya untuk 1 pengguna. Performa lebih stabil, bebas gangguan dari Cloud Hosting lainnya. More productivity, less drama
+									<br>
+									<br><h4>WordPress Hosting</h4>
+									<br>Hosting khusus bagi Anda yang menggunakan CMS WordPress. Dilengkapi CloudPop untuk kinerja WordPress yang optimal.
+									<br>
+									<br> WordPress Hosting Indonesia yang dioptimalkan dengan CloudPOP
+									<br>
+									<br><h4>Unlimited Hosting</h4>
+									<br>Paket Unlimited Hosting Indonesia yang dapat diandalkan, tanpa batasan! Free Domain &amp; SSL Certificate dengan Uptime Server 99,99%.
+									<br>
+									<br>Didukung Website Builder dan Web Accelerator dengan Module LSAPI PRO + CRIU. Akses internasional ngebut, serta garansi 30 hari uang kembali.
+								<p></p>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item">
+						<h3 class="accordion-header" id="heading3">
+							<button class="btn fw-bold accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="true" aria-controls="collapse3">
+								Apa kelebihan dari cloud hosting Qwords?
+							</button>
+						</h3>
+						<div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#FAQ">
+							<div class="accordion-body">
+								<p>
+								Cloud hosting Qwords sudah dipercaya 45,000+ pelanggan dari dalam dan luar negeri. Anda akan mendapatkan jaminan keamanan, Uptime 99.99%, dukungan teknis selama 24 jam, 7 hari melalui Live chat, Call Center, atau Support Ticket dan masih banyak lagi.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item">
+						<h3 class="accordion-header" id="heading4">
+							<button class="btn fw-bold accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="true" aria-controls="collapse4">
+								Mengapa saya perlu web hosting?
+							</button>
+						</h3>
+						<div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#FAQ">
+							<div class="accordion-body">
+								<p>
+								Tanpa web hosting, Anda tidak bisa membuat website company profile, portal berita, blog pribadi, website toko online, atau jenis website lain yang bisa diakses secara online.
+								<br>
+								<br>Penyedia layanan web hosting seperti Qwords.com membantu memastikan data-data dan file website Anda tetap aman serta responsif ketika diakses oleh pengguna secara online.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item">
+						<h3 class="accordion-header" id="heading5">
+							<button class="btn fw-bold accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="true" aria-controls="collapse5">
+								Bagaimana cara membeli hosting?
+							</button>
+						</h3>
+						<div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5" data-bs-parent="#FAQ">
+							<div class="accordion-body">
+								<p>
+								Kami memiliki panduan cara membeli hosting di Qwords sesuai kebutuhan dengan mudah yang dapat Anda akses selengkapnya <a href="https://qwords.com/blog/cara-membeli-hosting/">di sini</a>. Beli hosting Indonesia di Qwords kini juga semakin mudah dengan adanya berbagai metode pembayaran
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item">
+						<h3 class="accordion-header" id="heading6">
+							<button class="btn fw-bold accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="true" aria-controls="collapse6">
+								Apakah saya bisa transfer Hosting ke Qwords Cloud Web Hosting Indonesia?
+							</button>
+						</h3>
+						<div id="collapse6" class="accordion-collapse collapse" aria-labelledby="heading6" data-bs-parent="#FAQ">
+							<div class="accordion-body">
+								<p>
+								Ya, Anda bisa melakukan transfer Hosting dari provider lain ke Qwords Cloud Hosting Indonesia. Caranya, silahkan lakukan pemesanan Cloud Hosting baru sesuai paket yang Anda inginkan, kemudian informasikan kebutuhan migrasi pada tim support kami, lalu proses migrasi akan dibantu hingga selesai.
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section><section id="contact">
+	<div class="container py-5 my-5">
+		<div class="text-center">
+			<h2 class="fw-bolder">Butuh Bantuan?</h2>
+			<p  class="lead fw-normal mb-0 mx-auto mt-2 mb-1">Kami siap membantu anda 24 Jam</p>
+			<div class="d-flex gap-2 flex-wrap align-items-center justify-content-start justify-content-md-start justify-content-lg-center mt-3 mt-lg-5">
+				<a class="mx-3" href="tel:+628041808888">	
+					<div class="d-flex align-items-center mb-3">
+						<img data-lazyloaded="1" data-placeholder-resp="30pxx30px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/phoneAlt.svg" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/phoneAlt.svg" alt="phone.webp" class="me-2 entered litespeed-loaded" width="30px" height="30px" data-ll-status="loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/phoneAlt.svg" alt="phone.webp" class="me-2" width="30px" height="30px"/></noscript>
+						<p class="lead fw-bold mb-0">0804-1-808-888</p>
+					</div>
+				</a>
+				<a class="mx-3" href="tel:02139708800">
+					<div class="d-flex align-items-center mb-3">
+						<img data-lazyloaded="1" data-placeholder-resp="30pxx30px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/phoneAlt.svg" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/phoneAlt.svg" alt="phone2.webp" class="me-2 entered litespeed-loaded" width="30px" height="30px" data-ll-status="loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/phoneAlt.svg" alt="phone2.webp" class="me-2" width="30px" height="30px"/></noscript>
+						<p class="lead fw-bold mb-0">021 39708800</p>
+					</div>
+				</a>
+				<a class="mx-3" href="https://api.whatsapp.com/send?phone=62817437111">
+					<div class="d-flex align-items-center mb-3">
+						<img data-lazyloaded="1" data-placeholder-resp="30pxx30px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/waAlt.svg" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/waAlt.svg" alt="Whatsapp.webp" class="me-2 entered litespeed-loaded" width="30px" height="30px" data-ll-status="loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/waAlt.svg" alt="Whatsapp.webp" class="me-2" width="30px" height="30px"/></noscript>
+						<p class="lead fw-bold mb-0">+6281 7437 111 ( WhatsApp only )</p>
+					</div>
+				</a>
+				<a class="mx-3" href="mailto:info@qwords.com">
+					<div class="d-flex align-items-center mb-3">
+						<img data-lazyloaded="1" data-placeholder-resp="30pxx30px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/emailAlt.svg" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/emailAlt.svg" alt="Email.webp" class="me-2 entered litespeed-loaded" width="30px" height="30px" data-ll-status="loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/emailAlt.svg" alt="Email.webp" class="me-2" width="30px" height="30px"/></noscript>
+						<p class="lead fw-bold mb-0">info@qwords.com</p>
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
+</section><section id="office"></section>
+<div class="container shadow py-5">
+<div class="d-flex gap-2 flex-wrap align-items-center justify-content-start justify-content-md-center justify-content-lg-center">
+<div class="row justify-content-center">
+	<div class="col-13 col-lg-13 px-3 text-center">	
+		<h2 class="fw-bolder">Alamat Kantor</h2>
+	</div>
+</div>
+<div class="row">
+	<div class="card" style="width: 15rem; height: 12rem; border: none;">
+		<div class="card-body">
+			<h5 class="card-title">Kantor Surabaya</h5>
+			<p class="card-text">Gedung Bursa Efek Indonesia Lt.10, Jl. Taman AIS Nasution No.21, Surabaya 60271 - Indonesia 031 30008800</p>
+		</div>
+	</div>
+	<div class="card" style="width: 15rem; height: 12rem; border: none;">
+		<div class="card-body">
+			<h5 class="card-title">Kantor Yogyakarta</h5>
+			<p class="card-text">Jl. Blotan no. 18 Kayen Wedomartani, Ngemplak, Sleman, Yogyakarta 55584 - Indonesia 0274 6058800</p>
+		</div>
+	</div>
+	<div class="card" style="width: 15rem; height: 12rem; border: none;">
+		<div class="card-body">
+			<h5 class="card-title">Kantor Jakarta</h5>
+			<p class="card-text">Gedung Cyber 1 Lantai 3, Jl.Kuningan Barat no.8, Jakarta 12710 - Indonesia 021 39708800</p>
+		</div>
+	</div>
+	<div class="card" style="width: 15rem; height: 12rem; border: none;">
+		<div class="card-body">
+			<h5 class="card-title">Kantor Bandung</h5>
+			<p class="card-text">Jl. Terusan Setra Indah I No.19, Sukagalih, Sukajadi, Bandung 40163 - Indonesia 022 30508800</p>
+		</div>
+	</div>
+	</div>
+	</div>
+	</div>
+</section>
+<footer class="main-footer" style="background-color: black;">
+	<div class="container f-white my-5 pt-5">
+		<div class="row d-flex h-80">
+			<div class="col-sm-12 col-md-4 col-lg-3">
+				<div id="begin-logo" class="mb-5">
+					<div class="qw-logo">
+						<img data-lazyloaded="1" data-placeholder-resp="190pxx80" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/logo-dark.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/logo-dark.webp" alt="qwords.webp" width="190px" height="80" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/logo-dark.webp" alt="qwords.webp" width="190px" height="80"/></noscript>
+					</div>					
+					<div class="mt-3 mt-lg-4">
+						<h4 class="fw-bold mb-3 mb-lg-4 h5home">
+							PT Qwords Company International
+						</h4>
+						<p class="fw-light">
+							Cloud Web Hosting Indonesia. Domain &amp; hosting terbaik dengan
+							akses cepat yang didukung layanan support 24/7
+						</p>
+					</div>
+					<a href="https://www.bsigroup.com/en-ID/validate-bsi-issued-certificates/client-directory-certificate/IS%20776219">
+						<div class="qw-logo">
+							<img data-lazyloaded="1" data-placeholder-resp="395pxx100px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/bsi.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/bsi.webp" alt="bsi.webp" width="195px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/bsi.webp" alt="bsi.webp" width="395px" height="100px"></noscript>
+						</div>
+					</a>	
+				</div>			
+			</div>
+			<div class="col-sm-12 col-md-4 col-lg-3">
+				<div id="aboutus" class="mb-5">
+					<h4 class="fw-bold mb-3 mb-lg-4 h5home">Mengenai Kami</h4>
+					<ul class="list-unstyled">						
+						<li><a href="https://qwords.co.id">Corporate Website</a></li>						
+						<li><a href="https://qwords.com/v2/about-qwordscom/history/">Qwords History</a></li>
+						<li><a href="https://qwords.com/v2/about-qwordscom/difference/">Qwords Differences</a></li>
+						<li><a href="https://qwords.com/v2/media-publication">Media Publication</a></li>
+						<li><a href="https://qwords.com/v2/about-qwordscom/network/">Network &amp; Infrastructure</a></li>
+						<li><a href="https://qwords.com/v2/about-qwordscom/partner/">Partner</a></li>
+						<li><a href="https://qwords.com/v2/karir">Career &amp; Employment</a></li>
+					</ul>
+				</div>
+				<div id="msa" class="mb-5">
+					<h4 class="fw-bold mb-3 mb-lg-4 h5home">MSA/SLA/AUP</h4>
+					<ul class="list-unstyled">
+						<li><a href="https://qwords.com/v2/master-service-agreement">Master Service Agreement</a></li>
+						<li><a href="https://qwords.com/v2/master-service-agreement/refund-policy">Refund Policy</a></li>
+						<li><a href="https://qwords.com/v2/master-service-agreement/privacy-policy/">Privacy Policy</a></li>
+						<li><a href="https://qwords.com/v2/master-service-agreement/product-life-cycle-policy/">Product Life Cycle Policy</a></li>
+						<li><a href="https://qwords.com/v2/about-qwordscom/penggunaan-merek-dan-logo">Penggunaan Merek dan Logo</a></li>                        
+						<li><a href="https://qwords.com/v2/migrasi-pelanggan">Migrasi Ke Qwords</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-4 col-lg-3">				
+				<div id="others" class="mb-5">
+					<h4 class="fw-bold mb-3 mb-lg-4 h5home">Layanan Lainnya</h4>
+					<ul class="list-unstyled">
+						<li><a href="https://qwords.com/v2/services/extended-support">Extended Support</a></li>
+						<li><a href="https://qwords.com/v2/manage-the-box-dedicated-colocation-server">Manage The Box Server</a></li>
+						<li><a href="https://qwords.com/v2/flexi-main-domain">Flexi Main Domain</a></li>
+						<li><a href="https://qwords.com/v2/ftp-backup">FTP Backup</a></li>
+						<li><a href="https://qwords.com/v2/services/offline-backup">Offline Backup</a></li>
+						<li><a href="https://qwords.com/v2/services/hosting-insurance">Hosting Insurance</a></li>
+						<li><a href="https://qwords.com/v2/licenses">Software License</a></li>
+						<li><a href="https://qwords.com/v2/services/digital-signature">Digital Signature</a></li>
+					</ul>
+				</div>
+				<div id="resellerservice" class="mb-5">
+					<h4 class="fw-bold mb-3 mb-lg-4 h5home">Layanan Reseller</h4>
+					<ul class="list-unstyled">
+						<li><a href="https://qwords.com/v2/afiliasi">Afiliasi</a></li>
+						<li><a href="https://qwords.com/v2/qwordscom-package-reseller">Qwords VIP Partner</a></li>
+						<li><a href="https://qwords.com/v2/private-label-hosting-reseller">Private Label Hosting Reseller</a></li>
+						<li><a href="https://qwords.com/v2/private-label-domain-reseller">Private Label Domain Reseller</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-4 col-lg-3">				
+				<div id="#customer-care">
+					<h4 class="fw-bold mb-3 mb-lg-4 h5home">Customer Care</h4>
+					<ul class="list-unstyled">
+						<li><a href="https://qwords.com/v2/order-payment">Pembayaran</a></li>
+						<li><a href="https://qwords.com/v2/permintaan-faktur-pajak">Faktur Pajak</a></li>
+						<li><a href="https://portal.qwords.com/submitticket.php">Bantuan 24 jam</a></li>
+						<li><a href="https://qwords.com/v2/qwords-rewards">Qwords Rewards</a></li>
+						<li><a href="https://kb.qwords.com">Knowledge Base</a></li>
+						<li><a href="https://qwords.com/blog">Blog</a></li>
+						<li><a href="https://qwords.com/v2/faq">FAQ</a></li>
+						<li><a href="https://qwords.com/v2/about-qwordscom/contact-qwordscom">Kontak</a></li>		
+					</ul>
+				</div>		
+				<div id="resellerservice">
+					<h4 class="fw-bold mb-3 mb-lg-4 h5home">Free Tools</h4>
+					<ul class="list-unstyled">
+						<li><a href="https://link.share.web.id/">Qwords Link-Q</a></li>
+						<li><a href="https://wa.share.web.id/">WhatsApp Link Generator</a></li>
+						<li><a href="https://qwords.info/">Network Tools</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="d-flex gap-3 justify-content-center">
+		<a href="https://www.facebook.com/qwordsdotcom">
+		<div class="social-icon">
+			<img data-lazyloaded="1" data-placeholder-resp="30pxx30px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Facebook.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Facebook.webp" alt="fb.webp" width="30px" height="30px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Facebook.webp" alt="fb.webp" width="30px" height="30px"/></noscript>
+		</div>
+		</a>
+		<a href="https://www.instagram.com/qwordsdotcom/">
+		<div class="social-icon">
+			<img data-lazyloaded="1" data-placeholder-resp="30pxx30px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Instagram.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Instagram.webp" alt="ig.webp" width="30px" height="30px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Instagram.webp" alt="ig.webp" width="30px" height="30px"/></noscript>
+		</div>
+		</a>
+		<a href="https://twitter.com/qwordsdotcom">
+		<div class="social-icon">
+			<img data-lazyloaded="1" data-placeholder-resp="30pxx30px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Twitter.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Twitter.webp" alt="twt.webp" width="30px" height="30px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Twitter.webp" alt="twt.webp" width="30px" height="30px"/></noscript>
+		</div>
+		</a>
+		<a href="https://www.youtube.com/user/qwordsvideo">
+			<div class="social-icon">
+				<img data-lazyloaded="1" data-placeholder-resp="30pxx30px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Youtube.webp" loading="lazy" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Youtube.webp" alt="yt.webp" width="30px" height="30px" data-ll-status="loaded" class="entered litespeed-loaded"><noscript><img loading="lazy" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Youtube.webp" alt="yt.webp" width="30px" height="30px"/></noscript>
+			</div>
+		</a>
+	</div>
+	<p class="mb-0 text-center f-white">
+	Copyright © <span id="yearFooter"></span> PT. Qwords Company International</p>
+	<a href="https://www.freepik.com/author/vectorjuice" class="text-center f-white">Image by vectorjuice on Freepik</a>
+</footer>
+</body>
+</html>";}";}

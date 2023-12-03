@@ -1,4 +1,4 @@
-<section id="search-domain" class="orange-background shadow">
+<section id="search-domain" class="orange-background">
 	<div class="container py-4">
 		<div class="row my-5">
 			<div class="col-12">
