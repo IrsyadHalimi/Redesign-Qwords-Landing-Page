@@ -1,14 +1,14 @@
 # Redesign Qwords web landing page
 
-Ini adalah proyek desain ulang landing page untuk website Qwords sebagai final submission saya.
+Ini adalah proyek desain ulang landing page untuk website Qwords sebagai final submission.
 
 ## Tech Stack
 
-PHP, Codeigniter 4, HTML, Bootstrap 5
+**PHP, Codeigniter 4, HTML, Bootstrap 5**
 
 ## Instalasi Proyek
 
-Pastikan laptop/PC anda sudah terinstall bahasa pemrograman PHP versi >= 7.4
+Pastikan laptop/PC anda sudah terinstall bahasa pemrograman **PHP versi >= 7.4**
 
 jika belum silakan kunjungi tautan ini untuk menginstall PHP https://www.php.net/manual/en/install.php
 
@@ -40,5 +40,6 @@ https://drive.google.com/file/d/1AxrgMV8jif1SDX51Kw9NN31qf5YIPrCy/view?usp=shari
 
 https://drive.google.com/open?id=1--6-itkFNQeuhPPaVeurxQvgqdZTbbSJ&usp=drive_fs
 
-Image by vectorjuice on Freepik
+Image by **vectorjuice** on Freepik
+
 Icon - Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc.
