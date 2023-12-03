@@ -39,11 +39,25 @@
 
   // menampilkan banner promo 
   include("component/parts/guarantee_banner.php"); 
-  include("component/parts/testimonial.php"); 
-  include("component/parts/covered.php"); 
+
+  // menampilkan testimonial
+  include("component/parts/testimonial.php");
+  
+  // menampilkan perusahaan media publikasi
+  include("component/parts/covered.php");
+  
+  // menampilkan media pembayaran
   include("component/parts/payment.php"); 
-  include("component/parts/qna.php"); 
+
+  // menampilkan QNA
+  include("component/parts/qna.php");
+  
+  //menampilkan kontak Qwords
   include("component/parts/contact.php"); 
-  include("component/parts/office.php"); 
+
+  // menampilkan alamat kantor
+  include("component/parts/office.php");
+  
+  // section footer
   include_once("component/core/footer.php"); 
 ?>
